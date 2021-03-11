@@ -1,0 +1,26 @@
+{
+	"name": "express-graphql-app",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"dependencies": {
+		"express": "^4.17.1",
+		"graphql": "^15.5.0"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.7"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/dobis32/express-graphql-app.git"
+	},
+	"author": "S VanderWeide",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/dobis32/express-graphql-app/issues"
+	},
+	"homepage": "https://github.com/dobis32/express-graphql-app#readme"
+}
